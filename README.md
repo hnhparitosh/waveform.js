@@ -1,4 +1,5 @@
 #my attempt to use this library as a simple chrome plugin
+Just another attempt to make waveform using ha
 
 # Waveform.js
 
